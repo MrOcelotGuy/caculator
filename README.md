@@ -1,6 +1,15 @@
 # this a caculator made with pycharm
 
 
+
+
+
+
+
+
+
+
+
 print("this is a calculator")
 print("Enter 'add' to add two numbers")
 print("Enter 'subtract' to subtract two numbers")
