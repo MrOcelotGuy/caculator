@@ -1,9 +1,10 @@
-# this a caculator made with pycharm
+# Caculator
 
 
-hello
+This is my first-ever program I made 
 
 
+This caculatpr was made with python
 
 
 
