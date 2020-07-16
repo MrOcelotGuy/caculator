@@ -18,29 +18,29 @@ This caculator was made with python on pycharm
 		user_input = input(" ")
 
 		if user_input == "add":
-					 num1 = float(input("Enter a number "))
-					 num2 = float(input("Enter another number "))
-					 result = str(num1+num2)
-					 print("The result is" + result + "!")
+			 num1 = float(input("Enter a number "))
+			 num2 = float(input("Enter another number "))
+			 result = str(num1+num2)
+			 print("The result is" + result + "!")
 		elif user_input == "subtract":
-					 num1 = float(input("Enter a number: "))
-					 num2 = float(input("Enter another number: "))
-					 result = str(num1 - num2)
-					 print("The result is" + result + "!")
+			 num1 = float(input("Enter a number: "))
+			 num2 = float(input("Enter another number: "))
+			 result = str(num1 - num2)
+			 print("The result is" + result + "!")
 		elif user_input == "multiply":
-					 num1 = float(input("Enter a number: "))
-					 num2 = float(input("Enter another number: "))
-					 result = str(num1 * num2)
-					 print("The result is" + result + "!")
+				 num1 = float(input("Enter a number: "))
+				 num2 = float(input("Enter another number: "))
+				 result = str(num1 * num2)
+				 print("The result is" + result + "!")
 		elif user_input == "divide":
-					 num1 = float(input("Enter a number: "))
-					 num2 = float(input("Enter another number: "))
-					 result = str(num1 / num2)
-					 print("The result is" + result + "!")
+			 num1 = float(input("Enter a number: "))
+			 num2 = float(input("Enter another number: "))
+			 result = str(num1 / num2)
+			 print("The result is" + result + "!")
 		elif user_input == str("quit"):
-						print("goodbye")
-						break
+			print("goodbye")
+			break
 
 		else:
-					print("...")
-					print("ummmmmmmmmmmmmm")
+			print("...")
+			print("ummmmmmmmmmmmmm")
