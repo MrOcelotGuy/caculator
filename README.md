@@ -4,13 +4,17 @@
 This is my first-ever program I made 
 
 
-This caculatpr was made with python
+This caculator was made with python
 
 
 
+.
+
+.
 
 
 
+.
 print("this is a calculator")
 print("Enter 'add' to add two numbers")
 print("Enter 'subtract' to subtract two numbers")
